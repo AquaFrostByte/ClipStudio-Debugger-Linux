@@ -1,5 +1,3 @@
----
-
 # ClipStudio-Debugger-Linux ✨💻
 
 A simple **Bash**-based debugger for Clip Studio on Linux! 💡🎨  
@@ -24,5 +22,3 @@ Once I’ve finished fixing these issues, I’ll create a **tutorial** so you ca
 _______________________________________________________________________________________________________________
 
 Stay tuned for updates!  ݁₊ ⊹ .  ݁˖ .  ݁
-
----
